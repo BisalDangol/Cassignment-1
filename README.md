@@ -5,5 +5,5 @@ This is where we will create the voting (or e-voting) management system. By allo
 Beside of the program, I have added different feature. The reason to include these features is to make system secured as well as clean and smooth experience while using the System. Here I have added a character who is known as “Super Admin” and added file where we can see all candidate’s information. The super admin might be the person who is the Head of election committee head or the person whose task is to add admin.Here is the role of super admin. And how the Super admin gets access to the system. As showen in figure you are not able to see “Super Admin”. But to access the “SuperAdmin” portal, you need to press 42. This is the hidden cases for super admin.  After entring 42, admin need to enter its username and password. If the username and password is match then, super admin can add another admin by pressing 2 from keyboard. After giving citizenship number, date of birth, first name, middle name, last name, email, phone number, and other details. The person is successfully register for admin login. The important thing is the admin must be 25 years. If he is not the program will terminate. You can see the code of the super admin in following figure. 
 
 Run
-  main.c
+    main.c
   
